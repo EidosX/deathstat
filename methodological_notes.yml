@@ -2,3 +2,7 @@
   (France and overseas data typically start from 1991)
 - We use the generational age
   e.g in 2020, age 0 means "born in 2019". No-one reached age 0 on the 1st of January.
+- You need the following extensions for the scripts to run
+  - matplotlib
+  - pyyaml (download_assets.py only)
+  - requests (download_assets.py only)
