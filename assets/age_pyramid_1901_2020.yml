@@ -1,0 +1,17 @@
+direct_link: https://www.insee.fr/fr/statistiques/pyramide/3312958/xls/pyramides-des-ages_bilan-demo_2019.xls
+
+manual_link:
+  - webpage:
+      url: https://www.insee.fr/fr/statistiques/3312958
+      title: Pyramide des âges 2020 - France et France métropolitaine
+  - hints:
+      download: Click on "Télécharger les données" (blue and bold hyperlink)
+      format: xls
+
+notes:
+  - Age column is generational age (for example in 2020, age 0 means "born in 2019").
+    We know that because on the interactive website, when hovering over age 0,
+    it displays "nés en 2019"
+  - Data is temporary for 2018, 2019 and 2020
+  - Describes numbers at the beginning of the year
+    e.g 2020 represents the population on the 1st of January 2020

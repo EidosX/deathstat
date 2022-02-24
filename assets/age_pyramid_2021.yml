@@ -1,0 +1,13 @@
+direct_link: https://www.insee.fr/fr/statistiques/fichier/5007688/Pyramides-des-ages-2021.xlsx
+
+manual_link:
+  - webpage:
+      url: https://www.insee.fr/fr/statistiques/5007688
+      title: Pyramides des âges - Bilan démographique 2020
+  - hints:
+      title: au 1er janvier 2021
+      format: xlsx
+
+notes:
+  - Generational age (because in 2021 age 0 people are born in 2020)
+  - Describes population on the 1st of January 2020

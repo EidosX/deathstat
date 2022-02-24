@@ -1,0 +1,15 @@
+direct_link: https://www.insee.fr/fr/statistiques/fichier/5413883/T74.csv
+
+manual_link:
+  - webpage:
+      url: https://www.insee.fr/fr/statistiques/5413883
+      title: Les décès en 2020 - Tableaux de séries longues
+  - hints:
+      code: T74
+      title: Décès selon le sexe et l'âge en années révolues
+        (Séries depuis 1975 pour la France métropolitaine,
+        1998 pour la France entière)
+      format: csv
+
+notes:
+  -
