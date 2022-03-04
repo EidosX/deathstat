@@ -19,4 +19,10 @@ def _read_deaths_1962_2020() -> pd.DataFrame:
         "AGE_ATTEINT_R": "age",
     })
 
+    df = df.query("age != 'DEC'")
+
+    df = df.copy()
+    df["age"] = df["age"].map(lambda x: int(x[1:]))
+    df["sex"] = df["sex"].map({"H": "M", "F": "F", "E": "E"})
+
     return df

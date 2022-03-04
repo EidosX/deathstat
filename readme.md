@@ -12,6 +12,7 @@ a source data file.
 - requests (download_assets.py only)
 - Jupiter notebook
 - pandas
+- xlrd
 - matplotlib
 
 ## Usage
