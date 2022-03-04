@@ -11,6 +11,7 @@ a source data file.
 - pyyaml (download_assets.py only)
 - requests (download_assets.py only)
 - Jupiter notebook
+- pandas
 - matplotlib
 
 ## Usage
