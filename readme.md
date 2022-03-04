@@ -13,6 +13,7 @@ a source data file.
 - Jupiter notebook
 - pandas
 - xlrd
+- openpyxl
 - matplotlib
 
 ## Usage
